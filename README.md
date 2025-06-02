@@ -1,16 +1,17 @@
-## Hi there 👋
+# Developer and Learner
+------------------------
 
-<!--
-**29apo29/29apo29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I am Abdullah
 
-Here are some ideas to get you started:
+Community-driven developer and lifelong learner. I love building, sharing, and learning new things, especially in the world of software engineering and open source. I’m passionate about problem-solving and making things better, one commit at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  Based in Türkiye
+* ✉️  You can contact me at [abdullahergeni@yandex.com](mailto:abdullahergeni@yandex.com)
+* 🚀  Currently working on personal projects and contributing to open-source
+* 🧠  Learning about Machine Learning, Algorithms, and Systems Design
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=29apo29&layout=donut&langs_count=7&border_color=61dafb&hide_border=true&bg_color=20232a&title_color=61dafb&text_color=ffffff" />
+    </a>
+</div>
