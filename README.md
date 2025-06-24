@@ -12,6 +12,6 @@ Community-driven developer and lifelong learner. I love building, sharing, and l
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aergen29&layout=donut&langs_count=7&border_color=61dafb&hide_border=true&bg_color=20232a&title_color=61dafb&text_color=ffffff" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aergen29&layout=donut&langs_count=7&border_color=61dafb&hide_border=true&bg_color=20232a&title_color=61dafb&text_color=ffffff&hide=html" />
     </a>
 </div>
